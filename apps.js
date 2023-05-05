@@ -1,8 +1,8 @@
 /* navbar - change black when scrolling down */
 
 
-var nav = document.querySelector('nav');
-var logo = document.getElementById('imgl');
+const nav = document.querySelector('nav');
+const logo = document.getElementById('imgl');
 
         window.addEventListener('scroll', function () {
             if (window.pageYOffset > 100) {
