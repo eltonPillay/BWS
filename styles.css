@@ -1,0 +1,16 @@
+.aboutdiv {
+    padding-top: 100px;
+}
+
+.navbar-nav li a {
+    font-weight: bold;
+}
+
+.nametxt {
+    color: #FD841F;
+}
+
+h1 {
+    font-size: 2rem;
+    text-align: right;
+}
