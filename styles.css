@@ -6,9 +6,13 @@
     font-weight: bold;
 }
 
+.navcol {
+    background-color: #FD841F;
+}
+
 .nametxt {
     color: #FD841F;
-    font-size: 1.4rem;
+    font-size: 1.6rem;
 }
 .nameptxt {
     color: #FD841F;
@@ -22,3 +26,35 @@ h1 {
 h2 {
     font-size: 1rem;
 }
+
+.services-container {
+    background-image: url(img/Blue\ Psychedelic\ Soap\ Bubbles\ Mobile\ Phone\ Wallpaper\ \(1\).png);
+    background-size: cover;
+    margin-top: 8rem;
+}
+
+.serglass {
+    margin-top: 25px;
+    margin-bottom: 25px;
+    background: rgba(198, 198, 198, 10%);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border: 1px solid rgba(198, 198, 198, 1);
+
+}
+
+.glassdiv h2 {
+    font-weight: bolder;
+}
+
+.serh2,
+.serp {
+    color: white;
+}
+
+.glassdiv {
+    padding: 20px;
+}
+
