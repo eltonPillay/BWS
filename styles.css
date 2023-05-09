@@ -1,5 +1,10 @@
 .aboutdiv {
     padding-top: 100px;
+    position: relative;
+}
+
+.aboutimg {
+    position: relative;
 }
 
 .navbar-nav li a {
@@ -22,12 +27,12 @@
     color: #FD841F;
 }
 
-h1 {
+.abth1 {
     font-size: 1rem;
     text-align: right;
 }
 
-h2 {
+.abth2 {
     font-size: 1rem;
 }
 
